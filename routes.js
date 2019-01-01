@@ -1,6 +1,6 @@
 // Global
 const HOME = '/';
-const JOIN = '/json';
+const JOIN = '/join';
 const LOGIN = '/login';
 const LOGOUT = '/logout';
 const SEARCH = '/search';
